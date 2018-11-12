@@ -1,11 +1,6 @@
 // Initialize Firebase
 var config = {
-  apiKey: 'AIzaSyBgKGYCh4r3hDk7be6OItVanYaC7rYaKZE',
-  authDomain: 'contactform-50179.firebaseapp.com',
-  databaseURL: 'https://contactform-50179.firebaseio.com',
-  projectId: 'contactform-50179',
-  storageBucket: '',
-  messagingSenderId: '620153972651'
+  // Firebase auth key
 };
 firebase.initializeApp(config);
 
